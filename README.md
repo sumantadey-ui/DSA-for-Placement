@@ -6,13 +6,19 @@ The solutions are written in various programming languages such as C++, Java, Py
 
 ## Table of Contents
 Arrays
+
 Linked Lists
+
 Stacks and Queues
+
 Trees
+
 Graphs
+
 Sorting Algorithms
+
 Searching Algorithms
-Dynamic Programming
+
 
 ### Contributing
 If you'd like to contribute to this repository, please fork the repository and create a new branch for your changes. Once you have made your changes, submit a pull request with a detailed description of the changes you have made.
