@@ -1,5 +1,5 @@
 // LeetCode ---21
-/*
+
 
 int getLength(Node* head){
     int len = 0;
@@ -25,4 +25,3 @@ Node* findMiddle(Node* head){
     return temp;
 }
 
-*/
