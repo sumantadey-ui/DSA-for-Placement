@@ -1,5 +1,5 @@
 // Leetcode 8
-/*
+
 
 Node* sortList(Node* head){
 
@@ -42,7 +42,7 @@ Node* sortList(Node* head){
     return head;
 }
 
-*/
+
 
 // ************************************************
 
