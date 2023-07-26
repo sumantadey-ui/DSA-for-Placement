@@ -2,7 +2,7 @@
 
 
 Node* reverseLinkedList(Node* head){
-    if(head == NUL || head->next == NULL){
+    if(head == NULL || head->next == NULL){
         return head;
     }
     Node* prev = NULL;
