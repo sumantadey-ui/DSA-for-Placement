@@ -1,5 +1,5 @@
 // LeetCode 5
-/*
+
 
 Node *uniqueSortedList(Node *head)
 {
@@ -32,5 +32,3 @@ Node *uniqueSortedList(Node *head)
 
     return head;
 }
-
-*/
