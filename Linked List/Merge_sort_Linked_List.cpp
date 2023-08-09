@@ -1,5 +1,4 @@
 // Merege sort Linked List Code studio 4
-/*
 Node *findMid(Node *head)
 {
     Node *slow = head;
@@ -86,5 +85,3 @@ Node *mergeSort(Node *head)
 
     return result;
 }
-
-*/
