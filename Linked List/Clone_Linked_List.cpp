@@ -79,6 +79,7 @@ public:
         while (originalNode != NULL && cloneNode != NULL)
         {
             originalNode->next = cloneNode->next;
+            
             originalNode = originalNode->next;
 
             if (originalNode != NULL)
